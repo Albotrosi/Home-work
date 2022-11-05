@@ -1,8 +1,47 @@
-p{
-	padding: 10% 0;
-	border:dashed red;
-	height:150px;
+h1{
+	padding:8em ;
+	border:thick double #296DCE;
 	box-sizing:content-box;
-	width:100%;
-	margin: 1em
+	width:25em;
+	margin:1em;
+	background: linear-gradient(60deg,blue,blue,blue,blue);
+	border:soild;
+}
+h2{
+	padding:1em
+}
+
+p{
+	padding:1em;
+	width:622px;
+	
+}
+h3{
+	padding:10em ;
+	background: linear-gradient(60deg,blue,blue,blue,blue);
+}
+.photo {
+	float:right;
+	height: 970px;
+	width: 400px;
+	left: 900px;
+	top: 100px;
+	border-radius: 100px;
+	position: absolute;
+}
+h4 {
+	height: 462.1005144541742px;
+	width: 2250.1315409210265px;
+	left: -1421px;
+	top: 1077.2861328125px;
+	border-radius: 0px;
+}
+.text{
+	padding:1em ;
+	height: 44px;
+	width: 209px;
+	left: 245px;
+	top: 349px;
+	border-radius: nullpx;
+	border: dashed white;
 }
